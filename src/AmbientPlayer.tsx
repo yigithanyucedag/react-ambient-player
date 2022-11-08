@@ -188,4 +188,4 @@ const AmbientPlayer = ({
   );
 };
 
-export default AmbientPlayer;
+export { AmbientPlayer };
