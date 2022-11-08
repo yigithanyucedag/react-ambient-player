@@ -15,7 +15,7 @@ npm install react-ambient-player
 
 ## Usage
 
-```TSX
+```jsx
 import React from "react";
 import AmbientPlayer from "react-ambient-player";
 
