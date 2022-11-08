@@ -1,11 +1,11 @@
 {
   "name": "react-ambient-player",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Video player backlight changing according to video content",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf dist",
-    "build": "npm run clean && tsc && cp -r package.json README.md docs ./dist"
+    "build": "npm run clean && tsc && cp -r package.json README.md docs ./src/public/ ./dist"
   },
   "repository": {
     "type": "git",
