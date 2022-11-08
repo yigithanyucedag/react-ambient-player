@@ -1,0 +1,22 @@
+.ambient-player-container {
+  position: relative;
+  display: inline-flex;
+}
+
+.ambient-player-cinematics {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transform: scale(1.1);
+  pointer-events: none;
+  z-index: -10;
+  filter: blur(40px);
+  opacity: 0.5;
+}
+
+.ambient-player-canvas {
+  position: absolute;
+  opacity: 0;
+}
