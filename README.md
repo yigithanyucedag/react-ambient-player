@@ -1,5 +1,8 @@
 # React Ambient Player
 
+[![npm version](https://img.shields.io/npm/v/react-ambient-player.svg?style=flat-square)](https://www.npmjs.com/package/react-ambient-player)
+[![npm downloads](https://img.shields.io/npm/dm/react-ambient-player.svg?style=flat-square)](https://www.npmjs.com/package/react-ambient-player)
+
 ![Screenshot](docs/preview.png)
 
 Video player backlight changing according to video content
