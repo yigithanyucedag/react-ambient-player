@@ -1,4 +1,4 @@
-import "./index.css";
+import "./style.css";
 import React, { useRef, useState, useEffect, VideoHTMLAttributes } from "react";
 
 interface AmbientPlayerProps {
